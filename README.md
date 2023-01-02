@@ -63,8 +63,8 @@ Process:
 
   Accountability Document 
 
-  Portfolio Owner:  
-  Portfolio Deployment Link: 
+  Portfolio Owner:  Blake 
+  Portfolio Deployment Link: https://bcarta7.github.io/#projectnav
  _________________________________ 
      [] Title  
      [] Elevator Pitch  
@@ -81,7 +81,7 @@ Process:
      [] Spell check / Grammar check 
 
    
-  Portfolio Owner:  
+  Portfolio Owner:  Shannon 
   Portfolio Deployment Link: 
  _________________________________ 
      [] Title  
